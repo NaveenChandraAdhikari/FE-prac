@@ -1,4 +1,4 @@
-DEPLOYED LINK : https://github.com/NaveenChandraAdhikari/FE-prac/settings/pages
+DEPLOYED LINK : [https://github.com/NaveenChandraAdhikari/FE-prac/settings/pages](https://naveenchandraadhikari.github.io/FE-prac/)
 
 ![image](https://github.com/user-attachments/assets/6b59cf19-ebe1-4e22-b83f-868c051a4f39)
 ![image](https://github.com/user-attachments/assets/5e8b0527-3198-41b7-a597-b610c9d4451a)
